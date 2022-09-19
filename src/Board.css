@@ -1,0 +1,20 @@
+.board {
+    height: 844px;
+    width: 390px;
+    background-color: #2c7a62;
+    margin: auto;
+    display: grid;
+}
+.imgPost1 {
+    height: 244px;
+    width: 333px;
+    margin: auto;
+}
+.textPost {
+    text-align: left;
+    vertical-align: middle;
+    font-size: 24px;
+    font-family: Inter;
+    color: #ffffff;
+    margin-left: 30px;
+}

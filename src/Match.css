@@ -1,0 +1,40 @@
+.match {
+    height: 844px;
+    width: 390px;
+    background-color: #2c7a62;
+    margin: auto;
+}
+.back {
+    font-size: 39px;
+    color: white;
+    margin-left: 20px;
+}
+.matchProfile {
+    height: 141px;
+    width: 390px;
+    background-color: #d0e3da;
+}
+.matchProfileText {
+    text-align: left;
+    vertical-align: middle;
+    font-size: 30px;
+    font-family: Inter;
+    color: #000000;
+}
+.ellipse-2 {
+    height: 76px;
+    width: 76px;
+}
+.profile {
+    height: 141px;
+    width: 390px;
+    background-color: #d0e3da;
+}
+.profile {
+    height: 141px;
+    width: 390px;
+    background-color: #d0e3da;
+}
+.addButton {
+    height: 30px;
+}
